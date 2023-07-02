@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1>Hi, I'm Guillaume! <br/>IT, Cybersecurity and IAM enthusiast</h1>
+
+<h2>Projects:</h2>
+
+- <b>Active Directory HomeLab</b>
+  - [AD Setup](https://github.com/gf500/Active_Directory)
+
 
 <!--
 **gf500/gf500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
