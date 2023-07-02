@@ -3,7 +3,7 @@
 <h2>Projects:</h2>
 
 - <b>Active Directory HomeLab</b>
-  - [AD Setup](https://github.com/gf500/Active_Directory)
+  - [AD Setup](https://github.com/gf500/Active-Directory)
 
 
 <!--
